@@ -21,7 +21,7 @@ namespace Modelos
         public Modelo()
         {
             this.IP = "127.0.0.10";
-            this.NombreBase = "DB-AplicacionABM";
+            this.NombreBase = "usuarios";
             this.Contrasenia = "";
             this.NombreDeUsuario = "root";
 

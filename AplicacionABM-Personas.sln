@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.34729.46
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "AplicacionABM-Personas\Vista.csproj", "{B63CEEE2-1835-4BF8-B62B-B8E83310FE3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelos\Modelo.csproj", "{C0F10F83-119D-433B-A8D4-7AF0279E2521}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{C0F10F83-119D-433B-A8D4-7AF0279E2521}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controladores\Controlador.csproj", "{849C2313-2860-4C11-97B0-EE50FDB8A91F}"
 EndProject
